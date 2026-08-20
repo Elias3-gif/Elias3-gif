@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Elias3-gif
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning computer science
+- 🌱 I’m computer science graduate from Institute Of Accountancy Arusha
 - 💞️ I’m looking to collaborate on web development and programing
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 Contact me on whatsapp +255 673 661 101
+- 😄 Pronouns: Lets Cook together
+- ⚡ Fun fact: Coding For life buddy.
 
 <!---
 Elias3-gif/Elias3-gif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
